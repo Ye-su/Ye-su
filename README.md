@@ -1,6 +1,6 @@
-* 👋你好，我是@Ye-su
-* 👀我感兴趣的是 后端
-* 🌱我目前正在学习 JavaSE
-* 💞️我正在寻求合作...
-* 📫怎么联系我
+* 👋Hello，I am @Ye-su
+* 👀Here's what I'm interested in : 后端,Java,云原生,kubernetes....
+* 🌱I am currently learning Istio
+* 📫How to contact me.
       QQ:2752690254
+      
